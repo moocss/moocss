@@ -10,13 +10,13 @@
   <br>
   <p>
     <a href="http://weibo.com/moocss">
-      <img width="18" height="18" src="https://raw.githubusercontent.com/moocss/master/images/weibo.svg?sanitize=true" />
+      <img width="18" height="18" src="https://raw.githubusercontent.com/moocss/moocss/95a7ef4acd84ef26f1bc04ebfd0add41231ee668/images/weibo.svg?sanitize=true" />
     </a>
     <a href="https://twitter.com/moocss">
-      <img width="18" height="18" src="https://raw.githubusercontent.com/moocss/master/images/twitter.svg?sanitize=true" />
+      <img width="18" height="18" src="https://raw.githubusercontent.com/moocss/moocss/95a7ef4acd84ef26f1bc04ebfd0add41231ee668/images/twitter.svg?sanitize=true" />
     </a>
     <a href="mailto:moocss@gmail.com">
-      <img width="18" height="18" src="https://raw.githubusercontent.com/moocss/master/images/mail.svg?sanitize=true" />
+      <img width="18" height="18" src="https://raw.githubusercontent.com/moocss/moocss/95a7ef4acd84ef26f1bc04ebfd0add41231ee668/images/mail.svg?sanitize=true" />
     </a>
   </p>
   <p>Hi, I'm moocss, Fullstack developer from Xi'an, China.</p>

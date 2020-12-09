@@ -38,9 +38,6 @@
   <a href="https://github.com/thoughtbit/react-native-typescript-starter">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=thoughtbit&repo=react-native-typescript-starter" />
   </a>
-  <a href="https://github.com/moocss/EasyCMS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=moocss&repo=EasyCMS" />
-  </a>
   <a href="https://github.com/go-impatient/gaia">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=go-impatient&repo=gaia" />
   </a>

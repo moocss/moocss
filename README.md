@@ -41,6 +41,13 @@
   <a href="https://github.com/go-impatient/gaia">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=go-impatient&repo=gaia" />
   </a>
+    <a href="https://github.com/go-impatient/gaea">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=go-impatient&repo=gaea" />
+  </a>
+  </a>
+    <a href="https://github.com/go-impatient/tiga">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=go-impatient&repo=tiga" />
+  </a>
   <br>
   <br>
 </div>

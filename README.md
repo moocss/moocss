@@ -1,3 +1,5 @@
+![](https://github.com/moocss/moocss/blob/master/images/header.png)
+
 [Weibo](http://weibo.com/moocss) | [Twitter](https://twitter.com/moocss) | [E-Mail](mailto:moocss@gmail.com)
 <div align="center">
   <br>

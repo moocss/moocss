@@ -27,6 +27,15 @@
       <img src="https://github-readme-stats.vercel.app/api?username=moocss&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true&hide=contribs,issues" />
     </a>
   </p>
+  
+  ![](https://activity-graph.herokuapp.com/graph?username=moocss&theme=redical)
+
+  <p align="center">
+    Visitor count<br>
+    <img src="https://profile-counter.glitch.me/moocss/count.svg" />
+  </p>
+
+  
 
   <a href="https://github.com/thoughtbit/web-starter">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=thoughtbit&repo=web-starter" />

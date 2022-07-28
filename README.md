@@ -12,13 +12,13 @@
   <br>
   <p>
     <a href="http://weibo.com/moocss">
-      <img width="18" height="18" src="https://raw.githubusercontent.com/moocss/moocss/95a7ef4acd84ef26f1bc04ebfd0add41231ee668/images/weibo.svg?sanitize=true" />
+      <img width="18" height="18" src="https://raw.githubusercontent.com/moocss/moocss/master/images/weibo.svg?sanitize=true" />
     </a>
     <a href="https://twitter.com/moocss">
-      <img width="18" height="18" src="https://raw.githubusercontent.com/moocss/moocss/95a7ef4acd84ef26f1bc04ebfd0add41231ee668/images/twitter.svg?sanitize=true" />
+      <img width="18" height="18" src="https://raw.githubusercontent.com/moocss/moocss/master/images/twitter.svg?sanitize=true" />
     </a>
     <a href="mailto:moocss@gmail.com">
-      <img width="18" height="18" src="https://raw.githubusercontent.com/moocss/moocss/95a7ef4acd84ef26f1bc04ebfd0add41231ee668/images/mail.svg?sanitize=true" />
+      <img width="18" height="18" src="https://raw.githubusercontent.com/moocss/moocss/master/images/mail.svg?sanitize=true" />
     </a>
   </p>
   <p>Hi, I'm moocss, Fullstack developer from Xi'an, China.</p>
@@ -28,14 +28,15 @@
     </a>
   </p>
   
-  ![](https://activity-graph.herokuapp.com/graph?username=moocss&theme=redical)
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moocss/moocss/master/profile-3d-contrib/profile-night-green.svg">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://raw.githubusercontent.com/moocss/moocss/master/profile-3d-contrib/profile-green-animate.svg">
+  </picture>
 
   <p align="center">
     Visitor count<br>
     <img src="https://profile-counter.glitch.me/moocss/count.svg" />
   </p>
-
-  
 
   <a href="https://github.com/thoughtbit/web-starter">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=thoughtbit&repo=web-starter" />

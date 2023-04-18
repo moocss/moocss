@@ -1,6 +1,37 @@
 ![](https://github.com/moocss/moocss/blob/master/images/header.png)
 
 [Weibo](http://weibo.com/moocss) | [Twitter](https://twitter.com/moocss) | [E-Mail](mailto:moocss@gmail.com)
+
+
+## 🧰 语言工具
+
+### 视图相关
+
+[![My Skills](https://skillicons.dev/icons?i=vue,react,react-naitve,electron,js,ts,vite,webpack,css,sass,windicss,tailwind,jest,md&theme=light)](https://skillicons.dev)
+
+### 业务相关
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,koa,golang,java&theme=light)](https://skillicons.dev)
+#### 仅仅是熟悉，但也能开发
+[![My Skills](https://skillicons.dev/icons?i=java,golang,rust&theme=dark)](https://skillicons.dev)
+### 数据库
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,&theme=light)](https://skillicons.dev)
+
+### 代码管理
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&theme=light)](https://skillicons.dev)
+
+
+### 开发工具
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea&theme=light)](https://skillicons.dev)
+
+### 服务器相关
+
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,nginx&theme=light)](https://skillicons.dev)
+
+
 <div align="center">
   <br>
   <br>

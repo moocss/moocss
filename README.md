@@ -7,7 +7,7 @@
 
 ### 视图相关
 
-[![My Skills](https://skillicons.dev/icons?i=vue,react,solidjs,tauri,flutter,js,ts,vite,vitest,pinia,pnpm,npm,webpack,html,css,sass,windicss,tailwind,jest,md,jquery,svg,tailwind&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,react,solidjs,tauri,flutter,js,ts,vite,vitest,pinia,pnpm,npm,webpack,html,css,sass,windicss,tailwind,jest,md,jquery,svg,tailwind,codepen,d3&theme=light)](https://skillicons.dev)
 
 ### 业务相关
 
@@ -25,7 +25,7 @@
 
 ### 开发工具
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,vscodium,idea,eclipse,androidstudio&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,vscodium,idea,eclipse,androidstudio,clion&theme=light)](https://skillicons.dev)
 
 ### 服务器相关
 

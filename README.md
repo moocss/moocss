@@ -7,16 +7,16 @@
 
 ### 视图相关
 
-[![My Skills](https://skillicons.dev/icons?i=vue,react,solidjs,tauri,flutter,js,ts,vite,webpack,css,sass,windicss,tailwind,jest,md&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,react,solidjs,tauri,flutter,js,ts,vite,vitest,pinia,pnpm,npm,webpack,html,css,sass,windicss,tailwind,jest,md,jquery,svg,tailwind&theme=light)](https://skillicons.dev)
 
 ### 业务相关
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,wasm,dart,golang,java,prisma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,express,wasm,dart,golang,java,prisma,electron&theme=light)](https://skillicons.dev)
 #### 仅仅是熟悉，但也能开发
-[![My Skills](https://skillicons.dev/icons?i=java,golang,rust&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,golang,rust,fastapi,actix,spring&theme=dark)](https://skillicons.dev)
 ### 数据库
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,elasticsearch&theme=light)](https://skillicons.dev)
 
 ### 代码管理
 
@@ -25,7 +25,7 @@
 
 ### 开发工具
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,eclipse&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,vscodium,idea,eclipse,androidstudio&theme=light)](https://skillicons.dev)
 
 ### 服务器相关
 

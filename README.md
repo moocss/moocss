@@ -13,7 +13,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,express,wasm,dart,golang,java,prisma,electron&theme=light)](https://skillicons.dev)
 #### 仅仅是熟悉，但也能开发
-[![My Skills](https://skillicons.dev/icons?i=java,golang,rust,fastapi,actix,spring&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,golang,rust,py,fastapi,actix,spring&theme=dark)](https://skillicons.dev)
 ### 数据库
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,elasticsearch&theme=light)](https://skillicons.dev)
@@ -25,7 +25,7 @@
 
 ### 开发工具
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,vscodium,idea,eclipse,androidstudio,clion&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,vscodium,idea,eclipse,androidstudio,clion,pycharm&theme=light)](https://skillicons.dev)
 
 ### 服务器相关
 

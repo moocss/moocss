@@ -56,20 +56,17 @@
     </a>
   </p>
 
-<picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=moocss&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=moocss&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%235580eb%2C%20%232aeeff)">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=moocss&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
-</picture>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moocss&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moocss&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moocss&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moocss&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moocss&theme=github)
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=1026216" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=1026216&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @moocss" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=1026216&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
   
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moocss/moocss/master/profile-3d-contrib/profile-night-green.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moocss/moocss/master/profile-3d-contrib/profile-night-green.svg"  width="771" height="auto">
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://raw.githubusercontent.com/moocss/moocss/master/profile-3d-contrib/profile-green-animate.svg">
   </picture>
 
